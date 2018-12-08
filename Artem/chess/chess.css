@@ -1,0 +1,12 @@
+.black-bg-chess-piece{
+    background: lightslategray;
+    height: 100px;
+    weight: 100px;
+}
+.white-bg-chess-piece{
+ background: cornsilk;
+    height: 100px;
+    weight: 100px;
+
+}
+

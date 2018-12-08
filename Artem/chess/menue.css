@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+}
+
+.bg{
+    background-color: crimson;
+    height: 200px;
+
+}
+.li1{
+    display: inline-block;
+    padding: 10px;
+    color: gold;
+    font-size: 50px;
+    position: relative;
+    float: left;
+     top: -4px;
+    margin-top: 20px;
+  
+ }
